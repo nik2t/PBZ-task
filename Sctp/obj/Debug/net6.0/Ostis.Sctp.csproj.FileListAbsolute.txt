@@ -1,0 +1,12 @@
+/home/rusak/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/bin/Debug/net6.0/Ostis.Sctp.deps.json
+/home/rusak/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/bin/Debug/net6.0/Ostis.Sctp.dll
+/home/rusak/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/bin/Debug/net6.0/Ostis.Sctp.pdb
+/home/rusak/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/obj/Debug/net6.0/Ostis.Sctp.csproj.AssemblyReference.cache
+/home/rusak/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/obj/Debug/net6.0/Ostis.Sctp.GeneratedMSBuildEditorConfig.editorconfig
+/home/rusak/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/obj/Debug/net6.0/Ostis.Sctp.AssemblyInfoInputs.cache
+/home/rusak/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/obj/Debug/net6.0/Ostis.Sctp.AssemblyInfo.cs
+/home/rusak/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/obj/Debug/net6.0/Ostis.Sctp.csproj.CoreCompileInputs.cache
+/home/rusak/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/obj/Debug/net6.0/Ostis.Sctp.dll
+/home/rusak/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/obj/Debug/net6.0/refint/Ostis.Sctp.dll
+/home/rusak/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/obj/Debug/net6.0/Ostis.Sctp.pdb
+/home/rusak/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/obj/Debug/net6.0/ref/Ostis.Sctp.dll
